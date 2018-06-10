@@ -1,0 +1,1 @@
+This is the file that I wanna first add to GIT and later ignore
