@@ -1,4 +1,5 @@
 This is a Third File
-This is another modification I made to this file.
 
 Another Demonstration of how to use "git diff" 
+I added these lines
+This is the fourth line and I removed hte second line
