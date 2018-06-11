@@ -3,3 +3,8 @@ This is a Third File
 Another Demonstration of how to use "git diff" 
 I added these lines
 This is the fourth line and I removed hte second line
+
+## This is the Change that is made as part of the Third-Branch
+
+The changes made here will only be visisble in Third_branch, Branch. 
+The other 2 branches master & new_feature will not contain these changes.
